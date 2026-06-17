@@ -5,7 +5,7 @@ tags:
 date: 2026-06-16
 ---
 
-The authoritative internal reference for SharePoint administration at SNF — covering permissions, governance, templates, sensitivity labels, search, document libraries, lists, Power Automate, hub sites, and site administration.
+The authoritative internal reference for SharePoint administration — covering permissions, governance, templates, sensitivity labels, search, document libraries, lists, Power Automate, hub sites, and site administration.
 
 ## Topics
 
@@ -23,5 +23,5 @@ The authoritative internal reference for SharePoint administration at SNF — co
 
 ## Contact
 
-**Garith Duncan** · SharePoint Center of Excellence · SNF  
-[gduncan@snf.com](mailto:gduncan@snf.com) · (304) 654-5302
+**Garith Duncan** · SharePoint Center of Excellence  
+[gduncan@snf.com](mailto:gduncan@snf.com) · (912) 432-2808

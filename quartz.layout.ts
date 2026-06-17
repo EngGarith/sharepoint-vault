@@ -8,7 +8,6 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "SharePoint Admin Center": "https://admin.microsoft.com",
       Support: "mailto:gduncan@snf.com",
     },
   }),
