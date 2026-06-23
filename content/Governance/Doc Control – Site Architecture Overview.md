@@ -81,12 +81,12 @@ Equipment Register, Instrument Index, and Line List are authoritative registers 
 
 ## Document Ownership Model — SharePoint Mapping
 
-| Code | Owner | SharePoint Implementation |
-|---|---|---|
-| [E] | Engineering | Contribute rights on [E] libraries; DC-Engineering SP group |
-| [O] | Operations | Contribute rights on [O] libraries; DC-Operations SP group |
+| Code  | Owner                    | SharePoint Implementation                                                                                                     |
+| ----- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| [E]   | Engineering              | Contribute rights on [E] libraries; DC-Engineering SP group                                                                   |
+| [O]   | Operations               | Contribute rights on [O] libraries; DC-Operations SP group                                                                    |
 | [E→O] | Engineered → Operational | Engineering uploads initial record; ownership transferred via Document Authority column update; Operations governs thereafter |
-| [EHS] | EHS / Process Safety | Contribute rights on [EHS] library; DC-EHS SP group |
+| [EHS] | EHS / Process Safety     | Contribute rights on [EHS] library; DC-EHS SP group                                                                           |
 
 The **Document Authority** column (single-line choice) appears on every library record and makes ownership machine-readable for reporting, flow routing, and audit. See [[Doc Control – Plant Records Libraries]].
 
