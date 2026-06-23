@@ -28,7 +28,7 @@ aliases:
 | Your role | |
 | People in your group who will use the system | |
 | Groups or teams you're also speaking for | |
-| Scope of this response | Single site / Multiple sites (list them) / Enterprise-wide |
+| Scope of this response | Single site / Multiple sites / Enterprise-wide |
 | Date completed | |
 
 ---
@@ -37,18 +37,65 @@ aliases:
 
 *List the main types of documents your group creates, maintains, or relies on. A "document type" is a category that consistently serves the same purpose — for example: Operating Procedure, P&ID, Equipment Inspection Report.*
 
-*If your documents follow a hierarchy — for example, enterprise-wide corporate procedures that apply to all sites, site-specific procedures that apply only at your location, and unit-specific procedures that govern a single process or piece of equipment — describe each level separately. This hierarchy directly shapes how the system is structured.*
+*If your documents follow a hierarchy — enterprise-wide corporate procedures, site-specific procedures, and unit-specific procedures governing a single process — describe each level separately. This hierarchy directly shapes how the system is structured.*
 
-| Document Type | Approx. Count | Primary Format | Scope | Criticality | Managed in Another System Today? |
-|---------------|:------------:|----------------|-------|:-----------:|----------------------------------|
-| | | PDF / Word / Drawing / Spreadsheet / Other | Enterprise-wide / Site-specific / Unit-specific | Routine / Important / Regulatory-Compliance / Safety-Critical | No / Yes — system: |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+*Fill in one block per document type. Add or remove blocks as needed.*
+
+---
+
+**Document type:**
+**Approx. count:**
+**Primary format:** *(PDF / Word / Drawing / Spreadsheet / Other)*
+**Scope:** *(Enterprise-wide / Site-specific / Unit-specific)*
+**Criticality:** *(Routine / Important / Regulatory-Compliance / Safety-Critical)*
+**Managed in another system today?** *(No / Yes — system name:)*
+
+---
+
+**Document type:**
+**Approx. count:**
+**Primary format:** *(PDF / Word / Drawing / Spreadsheet / Other)*
+**Scope:** *(Enterprise-wide / Site-specific / Unit-specific)*
+**Criticality:** *(Routine / Important / Regulatory-Compliance / Safety-Critical)*
+**Managed in another system today?** *(No / Yes — system name:)*
+
+---
+
+**Document type:**
+**Approx. count:**
+**Primary format:** *(PDF / Word / Drawing / Spreadsheet / Other)*
+**Scope:** *(Enterprise-wide / Site-specific / Unit-specific)*
+**Criticality:** *(Routine / Important / Regulatory-Compliance / Safety-Critical)*
+**Managed in another system today?** *(No / Yes — system name:)*
+
+---
+
+**Document type:**
+**Approx. count:**
+**Primary format:** *(PDF / Word / Drawing / Spreadsheet / Other)*
+**Scope:** *(Enterprise-wide / Site-specific / Unit-specific)*
+**Criticality:** *(Routine / Important / Regulatory-Compliance / Safety-Critical)*
+**Managed in another system today?** *(No / Yes — system name:)*
+
+---
+
+**Document type:**
+**Approx. count:**
+**Primary format:** *(PDF / Word / Drawing / Spreadsheet / Other)*
+**Scope:** *(Enterprise-wide / Site-specific / Unit-specific)*
+**Criticality:** *(Routine / Important / Regulatory-Compliance / Safety-Critical)*
+**Managed in another system today?** *(No / Yes — system name:)*
+
+---
+
+**Document type:**
+**Approx. count:**
+**Primary format:** *(PDF / Word / Drawing / Spreadsheet / Other)*
+**Scope:** *(Enterprise-wide / Site-specific / Unit-specific)*
+**Criticality:** *(Routine / Important / Regulatory-Compliance / Safety-Critical)*
+**Managed in another system today?** *(No / Yes — system name:)*
+
+---
 
 **Anything else about your documents worth noting?**
 
@@ -58,17 +105,35 @@ aliases:
 
 ## 3. Where Documents Live Today
 
-*Rather than a checklist, map what each current system or location actually holds. This tells us what needs to move, what can stay, and where integration is needed instead of migration.*
+*Rather than a checklist, map what each current system or location holds. This tells us what needs to move, what can stay, and where integration is needed instead of migration.*
 
-| Current System / Location | Document Types Stored There | Notes |
-|--------------------------|----------------------------|-------|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+*Fill in one block per system or location. Common examples: shared network drive, corporate intranet, email/Outlook, SAP, EHS management system, engineering DMS, existing SharePoint, OneDrive, paper/physical.*
 
-*Common examples: shared network drive, corporate intranet, email/Outlook, SAP, EHS management system, engineering DMS, existing SharePoint, OneDrive, paper/physical.*
+---
+
+**System / location:**
+**Document types stored here:**
+**Notes:**
+
+---
+
+**System / location:**
+**Document types stored here:**
+**Notes:**
+
+---
+
+**System / location:**
+**Document types stored here:**
+**Notes:**
+
+---
+
+**System / location:**
+**Document types stored here:**
+**Notes:**
+
+---
 
 **What works well about how documents are stored today?**
 
@@ -82,17 +147,43 @@ aliases:
 
 ## 4. Ownership and Authority
 
-*Every controlled document needs a named owner — the role responsible for its accuracy and for authorizing changes. This determines how SharePoint groups and approval processes are configured. Focus on roles rather than individual names.*
+*Every controlled document needs a named owner — the role responsible for its accuracy and for authorizing changes. Focus on roles rather than individual names. If some documents are owned at the corporate or enterprise level, describe the corporate owner role.*
 
-*If some of your documents are owned at the corporate or enterprise level (e.g., a corporate procedure published to all sites), describe the corporate owner role rather than a local one.*
+*Fill in one block per document type.*
 
-| Document Type | Who Creates It | Who Authorizes / Approves It | Who Owns It Ongoing | Corporate or Site Owned? |
-|---------------|---------------|------------------------------|---------------------|:------------------------:|
-| | | | | Corporate / Site / Unit |
-| | | | | Corporate / Site / Unit |
-| | | | | Corporate / Site / Unit |
-| | | | | Corporate / Site / Unit |
-| | | | | Corporate / Site / Unit |
+---
+
+**Document type:**
+**Who creates it:**
+**Who authorizes / approves it:**
+**Who owns it ongoing:**
+**Corporate or site owned?** *(Corporate / Site / Unit)*
+
+---
+
+**Document type:**
+**Who creates it:**
+**Who authorizes / approves it:**
+**Who owns it ongoing:**
+**Corporate or site owned?** *(Corporate / Site / Unit)*
+
+---
+
+**Document type:**
+**Who creates it:**
+**Who authorizes / approves it:**
+**Who owns it ongoing:**
+**Corporate or site owned?** *(Corporate / Site / Unit)*
+
+---
+
+**Document type:**
+**Who creates it:**
+**Who authorizes / approves it:**
+**Who owns it ongoing:**
+**Corporate or site owned?** *(Corporate / Site / Unit)*
+
+---
 
 **What happens today when the person who created or owns a document leaves or changes roles?**
 
@@ -176,7 +267,7 @@ aliases:
 - [ ] They look it up by a tag number, equipment ID, or reference code
 - [ ] Other: ___________________________
 
-**If someone needed to find a document without knowing its name, what would they search by?**  
+**If someone needed to find a document without knowing its name, what would they search by?**
 *(Examples: equipment tag, site or unit, document type, regulatory category, project number, revision level, date range)*
 
 &nbsp;
@@ -189,24 +280,45 @@ aliases:
 
 ## 8. Connections to Other Systems
 
-*Documents rarely exist in isolation. Some systems hold documents as their primary record; others reference or consume them. Knowing the difference determines whether SharePoint replaces a system, integrates with it, or simply links to it.*
+*Some systems hold documents as their primary record; others reference or consume them. Knowing the difference determines whether SharePoint replaces a system, integrates with it, or simply links to it.*
 
-**Are any of your document types currently managed as the primary record in a specialist system** — for example, an EHS incident platform, a maintenance system, or an engineering drawing tool? If yes, describe: this determines whether we migrate content, build an integration, or leave it in place.
+**Are any of your document types currently managed as the primary record in a specialist system** — for example, an EHS incident platform, a maintenance system, or an engineering drawing tool? Fill in one block per system.
 
-| Specialist System | Document Types It Owns as Primary Record | Integration or Migration? |
-|------------------|------------------------------------------|:------------------------:|
-| | | Migrate / Integrate / Leave in place |
-| | | Migrate / Integrate / Leave in place |
-| | | Migrate / Integrate / Leave in place |
+---
 
-**Do your documents reference or depend on records in other operational systems?**
+**Specialist system:**
+**Document types it owns as primary record:**
+**Integration or migration?** *(Migrate / Integrate / Leave in place)*
 
-| Other System | How It Relates to Your Documents |
-|--------------|----------------------------------|
-| | |
-| | |
+---
 
-**Are there documents owned by another group that your group relies on daily?**  
+**Specialist system:**
+**Document types it owns as primary record:**
+**Integration or migration?** *(Migrate / Integrate / Leave in place)*
+
+---
+
+**Specialist system:**
+**Document types it owns as primary record:**
+**Integration or migration?** *(Migrate / Integrate / Leave in place)*
+
+---
+
+**Do your documents reference or depend on records in other operational systems?** Fill in one block per system.
+
+---
+
+**System:**
+**How it relates to your documents:**
+
+---
+
+**System:**
+**How it relates to your documents:**
+
+---
+
+**Are there documents owned by another group that your group relies on daily?**
 *(For example: Engineering owns the P&IDs but Operations references them constantly.)*
 
 &nbsp;
@@ -240,13 +352,22 @@ aliases:
 
 ## 10. Example Documents *(optional — but very helpful)*
 
-*Sharing 2–3 representative documents — real or anonymized — lets the designer see your content firsthand. You don't need to sanitize everything; a representative structure is enough. Attach files, note a file path, or describe them below.*
+*Sharing 2–3 representative documents lets the designer see your content firsthand. Attach files, note a file path, or describe them below.*
 
-| Document Name or Description | Why It Represents Your Group's Needs |
-|-----------------------------|--------------------------------------|
-| | |
-| | |
-| | |
+---
+
+**Document name or description:**
+**Why it represents your group's needs:**
+
+---
+
+**Document name or description:**
+**Why it represents your group's needs:**
+
+---
+
+**Document name or description:**
+**Why it represents your group's needs:**
 
 ---
 
